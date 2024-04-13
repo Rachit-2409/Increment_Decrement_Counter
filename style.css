@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    color: rgb(3, 3, 124);
+}
+p{
+    font-size: 100px;
+}
+button{
+    padding: 10px 20px ;
+}
